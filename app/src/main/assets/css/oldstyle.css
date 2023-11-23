@@ -1,0 +1,75 @@
+header.ymw-header aside a.ymw-app {display:block; position:absolute; top:50%; right:60px; width:76px; height:22px; line-height:22px; color:#fa2f35; font-size:13px; text-align:center; border:1px solid #ab3a3e; border-radius:16px; -webkit-transform:translate3d(0,-50%,0); transform:translate3d(0,-50%,0);}
+
+.title1,h2 {padding:10px; background-color:#eee; border-left:5px solid #e23703; font-size:17px; font-weight:bold; color:#333; border-radius:0 4px 4px 0;}
+/*游戏链接*/
+.gamelink {margin:0 auto; min-width:300px; max-width:550px; min-height:77.41px; max-height:100px; overflow:hidden; position:relative;}
+.gamelink img {float:right;}
+.gamelink .cont {display:-webkit-box; display:box; width:100%; height:100%; overflow:hidden; position:absolute; left:0; top:0;}
+.gamelink .img {width:auto; height:100%; overflow:hidden;}
+.gamelink .img img {float:left; height:100%;}
+.gamelink .div {-webkit-box-flex:1; box-flex:1; padding:0 10px; width:auto; height:100%; overflow:hidden;}
+.gamelink .con {display:table; width:100%; height:100%; font-family:'Microsoft YaHei'; overflow:hidden;}
+.gamelink .con .span {display:table-cell; vertical-align:middle; overflow:hidden;}
+.gamelink .con .tit {width:auto; height:34px; line-height:26px;}
+.gamelink .con .tit a {color:#e7e7e7; font-size:16px; font-weight:bold;}
+.gamelink .con .tit a:hover {color:#fff;}
+.gamelink .con .txt {width:auto; height:auto; overflow:hidden;}
+.gamelink .con .txt .lik1 {float:left; width:130px; height:24px; line-height:24px;}
+.gamelink .con .txt .lik1 a {float:left; margin-right:15px; color:#ec8b1a; font-size:13px;}
+.gamelink .con .txt .lik1 a:hover {color:#fff;}
+.gamelink .con .txt .lik2 {float:left; width:250px; height:24px; line-height:24px; color:#888; font-size:13px; font-family:SimSun;}
+.gamelink .con .txt .lik2 a {color:#ccc; font-size:12px; font-family:'Microsoft YaHei';}
+.gamelink .con .txt .lik2 a:hover {color:#fff;}
+/*专栏作者*/
+.Author_column {display:-webkit-box; width:100%; height:55px; background:#e8e8e8;}
+.Author_column .ac1 {-webkit-box-flex:0; padding:5px 0; width:60px; height:45px; text-align:center; background:#dbdbdb;}
+.Author_column .ac1 img {width:45px; height:45px; border-radius:33px; box-shadow:0 2px 5px 0 rgba(120,120,120,1);}
+.Author_column .ac2 {position: relative;-webkit-box-flex:1; padding:0 5px; width:auto; height:55px;}
+.Author_column .ac2 .tit {width:auto; height:22px; line-height:22px; color:#666; font-size:12px; font-family:'Microsoft YaHei'; font-weight:bold;}
+.Author_column .ac2 .txt {width:160px; height:auto; line-height:16px; color:#666; font-size:12px; font-family:'Microsoft YaHei';}
+.Author_column .ac2 .like {width:70px; height:auto; text-align:center; position:absolute; top:6px; right:2px;}
+.Author_column .ac2 .like a {padding:5px; display:inline-block; width:50px; height:auto; line-height:16px; color:#262626; font-size:12px;}
+.Author_column .ac2 .like a {border:1px solid #bbb; box-shadow:0 2px 5px 0 rgba(0,0,0,0.1); border-radius:5px;}
+.Author_column .ac2 .like a:hover {color:#e11d03;}
+/*游戏评测 新版*/
+.pingce {width:100%; height:auto; border-bottom:1px solid #cecece;}
+.pingce .pc1 {width:100%; height:55px; display:-webkit-box;}
+.pingce .pc1 .pc1_num {width:60px; height:55px; line-height:55px; text-align:center; color:#f2f2f3; font-size:30px; font-family:Arial; background:#f26723;}
+.pingce .pc1 .pc1_num {text-shadow:0 3px 10px rgba(0,0,0,0.5);}
+.pingce .pc1 .pc1_tit {-webkit-box-flex:1; padding:10px 0 0 10px; width:auto; height:55px;}
+.pingce .pc1 .pc1_tit {background:#202020 url(//image.gamersky.com/webimg15/pcbg.gif) right 0 no-repeat; background-size:auto 55px;}
+.pingce .pc1 .pc1_tit .t1 {width:auto; height:18px; line-height:18px; color:#f2f2f3; font-size:16px; font-family:'Microsoft YaHei';}
+.pingce .pc1 .pc1_tit .t2 {width:auto; height:14px; line-height:14px; color:#999; font-size:12px;}
+.pingce .pc2 {width:100%; height:auto; display:-webkit-box;}
+.pingce .pc2 .pc2_L {padding:15px 10px; width:40px; height:auto; text-align:center; color:#ef511c; font-size:16px; font-family:'Microsoft YaHei'; background:#f0f0f0;}
+.pingce .pc2 .pc2_L {text-shadow:1px 1px 1px #fff;}
+.pingce .pc2 .pc2_R {-webkit-box-flex:1; padding:15px 15px 5px; width:auto; height:auto; background:#f9f9fb; border-left:1px solid #f5f5f5;}
+.pingce .pc2 .pc2_R .txt {margin-bottom:5px; width:100%; height:auto; line-height:25px; font-size:14px;}
+.pingce .pc2 .pc2_R .like {margin-bottom:5px; padding:5px 0; width:100%; height:auto;}
+.pingce .pc2 .pc2_R .like span {margin:0 30px 5px 0; display:inline-block; width:100%; height:26px; line-height:26px; text-indent:25px; font-size:14px;}
+.pingce .pc2 .pc2_R .like span {background:#f2f2f3 url(//image.gamersky.com/webimg15/jj.gif) no-repeat;}
+.pingce .pc2 .pc2_R .like span.jia {color:#e03800; background-position:7px 0;}
+.pingce .pc2 .pc2_R .like span.jian {color:#262626; background-position:7px -26px;}
+
+/*=====================  表格样式  ==========================*/
+table,.table1,.table2 {width:99%; height:auto; border-spacing:1px; border-collapse:collapse; border:1px solid #ddd; font-size:14px; color:#666;}
+.table1 td,.table2 td {padding:4px; border:1px solid #ddd;}
+.table1 td img,.table2 td img {display:block;}
+.tr1,.tr2 {text-align:center; background-color:#eee;}
+.tr1 td,.tr2 td {min-width:30px; width:auto;}
+/**文章顶踩**/
+aside.dingcai {position:relative; display:block; margin:10px 0; width:100%; height:40px; line-height:40px; background-color:#f7f7f8; font-size:12px; color:#333; text-indent:10px;}
+aside.dingcai a {top:7px; display:block; position:absolute; width:80px; height:26px; line-height:26px; text-align:center; font-size:12px; border:1px solid #c9c9c9; background-color:#fff; text-indent:-1px;}
+aside.dingcai .ding {right:100px; color:#e03800;}
+aside.dingcai .cai {right:10px; color:#0378a3;}
+
+figure.yu-li-txt-game {display:block; margin:0; padding:14px 14px 0; height:160px; position:relative;}
+figure.yu-li-txt-game a {width:100%; height:144px; position:absolute; top:14px; left:0;}
+figure.yu-li-txt-game img {width:115px; height:160px; position:absolute; top:14px; left:14px;}
+figure.yu-li-txt-game figcaption, figure.yu-li-txt-game p {margin-left:129px; line-height:25px; word-break:break-all;}
+figure.yu-li-txt-game figcaption {margin-bottom:5px; font-size:16px;}
+figure.yu-li-txt-game p {margin-bottom:3px; font-size:12px; color:#666; max-height:60px; line-height:20px; overflow:hidden;}
+.yu-tilev2 {margin-bottom:6px; height:30px; line-height:30px; font-size:16px; color:#333; font-weight:400;}
+
+
+

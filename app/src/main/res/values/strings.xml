@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Nomad Starry Sky</string>
+    <string name="title_activity_settings">set up</string>
+    <string name="ok">confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_home">Information</string>
+    <string name="title_game_guide">Strategy</string>
+    <string name="title_game_reviews">Review</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_user">user</string>
+    <string name="title_news_tab1">front page</string>
+    <string name="title_news_tab2">entertainment</string>
+    <string name="title_news_tab3">Embarrassing pictures</string>
+    <string name="title_article_tab1">text</string>
+    <string name="title_article_tab2">Comment</string>
+    <string name="succeed_comment_load">Comments loaded successfully</string>
+    <string name="error_comment_load">Comment loading failed</string>
+    <string name="no_search_result">Search results are empty</string>
+    <string name="search_faild">Search failed</string>
+    <string name="wait">请稍等…</string>
+    <string name="no_more">没有了，没有奇迹了</string>
+    <string name="handbook_search_hint">Enter the game name or guide title</string>
+    <string name="reviews_search_hint">Enter game name</string>
+    <string name="sort_type">sort by</string>
+    <string name="newest">up to date</string>
+    <string name="hotest">hottest</string>
+    <string name="earliest">earliest</string>
+    <string name="sort_hot_asc">In ascending order of popularity</string>
+    <string name="sort_time_asc">ascending order by time</string>
+    <string name="sort_evaluation_asc">Sort by rating in ascending order</string>
+    <string name="sort_hot_desc">In descending order of popularity</string>
+    <string name="sort_time_desc">Descending order by time</string>
+    <string name="sort_evaluation_desc">Sort by rating in descending order</string>
+    <string name="end">-END-</string>
+    <string name="article_nav">Article navigation</string>
+    <string name="updata_successed">update completed</string>
+    <string name="updata_failed">Update failed</string>
+    <string name="player_comment">Player comments</string>
+    <string name="delete_select">Delete selected</string>
+
+    <string name="all">all</string>
+    <string name="game_genres">game type</string>
+    <string name="game_platform">gaming platform</string>
+    <string name="sale_date">Release time</string>
+    <string name="game_company">Game manufacturers</string>
+    <string name="official_chinese">Official Chinese</string>
+    <string name="game_tag">game tag</string>
+    <string name="detail_review">Review details</string>
+
+    <string name="game_make">make</string>
+    <string name="chinese">Chinese</string>
+    <string name="listed_time">publish time</string>
+    <string name="game_score">game rating</string>
+    <string name="more_images">more pictures</string>
+
+    <string name="night_mode">dark mode</string>
+    <string name="night_mode_light">light color</string>
+    <string name="night_mode_night">Dark</string>
+    <string name="night_mode_default">System Default (Follow System)</string>
+
+
+    <string name="man">people</string>
+    <string name="star">star</string>
+    <string name="upvote">top</string>
+    <string name="downvote">step on</string>
+    <string name="not_enough_man_reviews">Not enough people to rate</string>
+
+    <string name="user_name">username</string>
+    <string name="user_password">user password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">register</string>
+    <string name="login">Log in</string>
+    <string name="my_favorites">my collection</string>
+    <string name="my_settings">my settings</string>
+    <string name="sign_out">sign out</string>
+    <string name="sign_out_success">Log out successfully</string>
+
+    <string name="loading">正在加载…</string>
+    <string name="comment">Comment</string>
+    <string name="no_comment">There are no comments yet</string>
+    <string name="hot_comment">Top Comments</string>
+    <string name="all_comment">All comments</string>
+
+    <string name="bottom_bar_about">Bottom bar related</string>
+    <string name="bottom_bar_style">Bottom bar style</string>
+    <string name="bottom_bar_labeled">Full title expansion</string>
+    <string name="bottom_bar_unlabeled">Full title shrink</string>
+    <string name="bottom_bar_selected">Select the title to expand</string>
+
+    <string name="read_about">Read related</string>
+    <string name="article_text_size">Article font size</string>
+    <string name="smaller">Extra small</string>
+    <string name="small">Small</string>
+    <string name="normal">middle</string>
+    <string name="big">big</string>
+    <string name="bigger">extra large</string>
+    <string name="save_read_progress">Reading progress record</string>
+    <string name="no_sure">may not be accurate</string>
+    <string name="save_article_click">Article click record</string>
+    <string name="clear_save">Clear History</string>
+    <string name="click_clear_save">Click to clear history</string>
+
+    <string name="favorites">collect</string>
+    <string name="share">share</string>
+    <string name="share_to">share to</string>
+    <string name="success_favor">Collection successful</string>
+    <string name="repeat_favor">Collection already exists</string>
+
+    <string name="article">article</string>
+    <string name="handbook">Strategy</string>
+    <string name="game">game</string>
+
+    <string name="select_avatar">Choose Avatar</string>
+    <string name="clear_avatar">Delete avatar</string>
+    <string name="please_input_user_name">Please enter a username!</string>
+    <string name="please_input_user_password">Please enter a password!</string>
+    <string name="please_confirm_user_password">Please confirm the password!</string>
+    <string name="error_register">Registration error, user may already exist!</string>
+    <string name="success_register">Registration successful!</string>
+    <string name="success_login">Login successful!</string>
+    <string name="error_login">Incorrect password or user does not exist!</string>
+    <string name="error_password_inconsistent">Passwords do not match!</string>
+
+</resources>
